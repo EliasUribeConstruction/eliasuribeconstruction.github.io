@@ -82,7 +82,7 @@
 
 
 .section-title {
-  font-size: calc(6px + 2vmin);
+  font-size: calc(6px + 3vmin);
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
   text-align: center;
@@ -116,7 +116,7 @@
   text-align: center;
   padding: 0% 5% 0px 5%;
   margin-bottom: 5%;
-  font-size: calc(6px + 2vmin);
+  font-size: calc(6px + 3vmin);
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
 }
@@ -175,7 +175,7 @@
   .text-section {
     max-width: 50%;
   }
-  .image-container {
+  .image-section {
     width: 100%;
   }
 
@@ -197,58 +197,49 @@
   }
 } 
 
-/* About Me  */
+/* Services */
 
-.about-me-and-image-container {
-  display: flex;
-  /* flex-direction: row; */
-  justify-content: center;
-  align-items: center;
-  margin: 20px 5% 20px 5%;
-  /* width: 100%; */
+.services{
+  background-color: #7b8ba1;
 }
 
-@media (max-width: 1122px) {
-  .about-me-and-image-container {
-    flex-direction: column;
-  }
-  
-  .about-me-image-container {
-    flex: row;
-  }
-}
-
-.about-me-text-container {
-  display: flex;
-  flex-direction: column;
-  flex:2;
-}
-
-.about-me-bold-text {
+.services-title {
+  padding: 3% 3% 3% 3%;
   text-align: center;
   font-size: calc(6px + 3vmin);
-  font-weight: 600;
-  font-family: 'Poppins', sans-serif;
-  margin: 2% 2% 2% 2%;
-}
-
-.about-me-text {
-  text-align: center;
-  font-size: calc(3px + 2vmin);
+  color: white;
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
-  margin: 2% 2% 2% 2%;
+  padding-top: 5%;
 }
 
-.about-me-image-container {
-  /* max-height: 100%; */
-  flex: 3;
+.services-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 0% 3% 3% 3%;
 }
 
-.about-me-image {
-  max-height: 100%;
-  max-width: 100%;
-  object-fit: contain;
+.service-item{
+  align-items: center;
+  width: 30%;
+}
+
+.service-item img{
+  width: 100%;
+  height: auto;
+}
+
+.service-title{
+  color: white;
+  text-align: center;
+  padding: 0% 5% 0px 5%;
+  margin-bottom: 5%;
+  font-size: calc(5px + 2vmin);
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  
 }
 
 /* Customers Say */
