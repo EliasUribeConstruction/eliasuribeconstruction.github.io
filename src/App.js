@@ -1,20 +1,21 @@
 
 import './App.css';
 
-import HeaderTitleNav from './components/HeaderTitleNav';
-import AboutMe from './components/AboutMe';
+import ImageTitle from './components/ImageTitle';
+import About from './components/About';
 import CustomersSay from './components/CustomersSay';
 import Contact from './components/Contact';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      {/* Header */}
-      <HeaderTitleNav />
+      <Navbar />
+      <ImageTitle />     
 
       {/* Main Section */}
       <main className="main">
-        <AboutMe id="about" />
+        <About id="about" />
         <CustomersSay id="customers-say" />
         <Contact id="contact" />
       </main>
