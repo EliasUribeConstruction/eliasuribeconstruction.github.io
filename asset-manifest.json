@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sun-road-elias/static/css/main.24effb11.css",
+    "main.js": "/sun-road-elias/static/js/main.8e459c33.js",
+    "static/js/787.1681269a.chunk.js": "/sun-road-elias/static/js/787.1681269a.chunk.js",
+    "static/media/ArchitectBluePrint.jpg": "/sun-road-elias/static/media/ArchitectBluePrint.b7bdd918c987ebfe96ab.jpg",
+    "static/media/TopPhotoWide.jpg": "/sun-road-elias/static/media/TopPhotoWide.e57be7152e1c7104fce1.jpg",
+    "static/media/BluePrint.jpg": "/sun-road-elias/static/media/BluePrint.516bc1025356230ee52e.jpg",
+    "static/media/logo.png": "/sun-road-elias/static/media/logo.ca9f2db65e44da5a9832.png",
+    "static/media/windows_nice_wide.jpeg": "/sun-road-elias/static/media/windows_nice_wide.69247e1d3ad5a9ee89fc.jpeg",
+    "static/media/cabin_nice_cropped1.jpeg": "/sun-road-elias/static/media/cabin_nice_cropped1.5c66d1eaf9c738523c9d.jpeg",
+    "static/media/3beams.jpeg": "/sun-road-elias/static/media/3beams.37a2f42ee27f5738b732.jpeg",
+    "index.html": "/sun-road-elias/index.html",
+    "main.24effb11.css.map": "/sun-road-elias/static/css/main.24effb11.css.map",
+    "main.8e459c33.js.map": "/sun-road-elias/static/js/main.8e459c33.js.map",
+    "787.1681269a.chunk.js.map": "/sun-road-elias/static/js/787.1681269a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24effb11.css",
+    "static/js/main.8e459c33.js"
+  ]
+}
