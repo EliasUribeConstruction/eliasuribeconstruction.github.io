@@ -18,7 +18,7 @@ const pages = [
 
 function Footer() {
   return (
-    <header>
+    <section id="footer">
         <div className="footer-contant-area">
             <div className="footer-containers">
                 <div className="footer-page-titles-container">
@@ -49,7 +49,7 @@ function Footer() {
             </div>
 
         </div>
-    </header>
+    </section>
     
   );
 }
