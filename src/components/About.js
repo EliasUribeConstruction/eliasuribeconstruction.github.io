@@ -11,7 +11,7 @@ function About(){
                     <div className='about-text'>From concept to completion, we've got you covered.</div>
                     <div className='about-title'> ABOUT </div>
                 </div>
-                <div className="image-container">
+                <div className="image-section">
                     <div className="second-image">
                         <img src={architectBluePrint} alt="Shorter Image" />
                     </div>

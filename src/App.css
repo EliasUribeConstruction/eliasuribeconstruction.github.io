@@ -131,7 +131,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.image-container {
+.image-section {
   flex: 2;
   position: relative;
   display: flex;
