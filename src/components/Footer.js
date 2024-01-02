@@ -16,15 +16,12 @@ const pages = [
     },
 ]
 
-function Navbar() {
+function Footer() {
   return (
     <header>
-        <div className="navbar-content-area">
-            <div className="navbar-containers">
-                <div className="navbar-page-titles-container">
-                    <a href="about"><img src={logo} className="company-logo" alt="logo"/></a>
-                </div>
-                <div className="navbar-page-titles-container">
+        <div className="footer-contant-area">
+            <div className="footer-containers">
+                <div className="footer-page-titles-container">
                     {pages.map((item, index)=>{
                         return (
                             <a href="#"
@@ -38,18 +35,16 @@ function Navbar() {
                             }}>{item.name}</a>
                         )        
                     })}
-                    <a
-                        href="#contact"
-                        className="contact-link"
-                        onClick={(e) => {
-                            e.preventDefault();
-                            document.getElementById("footer").scrollIntoView({
-                                behavior: "smooth"
-                            });
-                        }}
-                    >
+                </div>
+                <div className="navbar-page-titles-container">
+                    <a href="about"><img src={logo} className="company-logo" alt="logo"/></a>
+                </div>
+                <div className="contact-section">
+                    <div className="contact-title">
                         {"CONTACT"}
-                    </a> 
+                    </div>
+                    <div className="contact-content">406-922-9782</div>
+                    <div className="contact-content">sunroadconstruction@gmail.com</div>
                 </div>
             </div>
 
@@ -59,4 +54,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Footer
