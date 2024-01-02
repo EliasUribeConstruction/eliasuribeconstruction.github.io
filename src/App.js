@@ -3,10 +3,11 @@ import './App.css';
 
 import ImageTitle from './components/ImageTitle';
 import About from './components/About';
-import CustomersSay from './components/CustomersSay';
+import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
 import Services from './components/Services';
+import PastWork from './components/Portfolio';
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
       <main className="main">
         <About id="about" />
         <Services id="services" />
-        <CustomersSay id="customers-say" />
+        <Portfolio id="portfolio" />
         <Contact id="contact" />
       </main>
     </div>

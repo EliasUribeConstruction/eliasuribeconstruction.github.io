@@ -242,6 +242,149 @@
   
 }
 
+/* Portfolio */
+
+.portfolio{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #dde3ef;
+}
+
+.portfolio-title {
+  background-color: #0a3863;
+  color: white;
+  text-align: center;
+  padding: 0% 2% 0% 2%;
+  font-size: calc(6px + 3vmin);
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  margin: 5% 5% 5% 5%;
+}
+
+.portfolio-container {
+  display: flex;
+  width: 67%;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-item {
+  background-color: white;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  /* box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2); */
+}
+
+.portfolio-image-switch,
+.portfolio-image{
+  flex: 0 0 50%;
+  max-width: 50%;
+  height: 100%;
+  width: auto;
+  object-fit: cover;
+}
+
+.portfolio-image-switch{
+  order: 2;
+}
+
+.portfolio-text-section-switch,
+.portfolio-text-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0% 3% 0% 3%;
+}
+
+.portfolio-text-section-switch{
+  order: 1;
+}
+
+
+.project-title {
+  background-color: #0a3863;
+  color: white;
+  text-align: center;
+  padding: 0% 2% 0% 2%;
+  font-size: calc(3px + 2vmin);
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  margin: 2% 2% 5% 2%;
+}
+
+.project-quote{
+  text-align: center;
+  color: #0a3863;
+  font-family: 'Poppins', sans-serif;
+  font-size: calc(2px + 1.5vmin);
+}
+
+.quote-name{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #0a3863;
+  font-size: calc(2px + 2vmin);
+}
+
+.big-quote-section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0a3863;
+  color: white;
+}
+
+.big-quote-title{
+  text-align: center;
+  font-size: calc(3px + 2vmin);
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  margin: 2% 2% 2% 2%;
+}
+
+.big-quote{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: calc(2px + 2vmin);
+  margin: 2% 2% 2% 2%;
+}
+.big-quote-name{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  margin: 2% 2% 2% 2%;
+}
+@media screen and (max-width: 650px) { 
+  .portfolio-item{
+    flex-direction: column;
+    height: auto;
+  }
+  .portfolio-image-switch,
+  .portfolio-image{
+    /* flex: 1; */
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    order: 1;
+  }
+  
+  .portfolio-text-section-switch,
+  .portfolio-text-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0% 3% 0% 3%;
+    order: 2;
+  }
+}
 /* Customers Say */
 
 .customer-quote-picture-container {

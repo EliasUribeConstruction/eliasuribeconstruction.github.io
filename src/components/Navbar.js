@@ -11,8 +11,8 @@ const pages = [
         link: "services",
     },
     {
-        name: 'PAST WORK',
-        link: "customers-say",
+        name: 'PORTFOLIO',
+        link: "portfolio",
     },
 ]
 
