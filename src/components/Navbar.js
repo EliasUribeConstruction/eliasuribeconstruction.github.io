@@ -21,7 +21,7 @@ function Navbar() {
     <header>
         <div className="navbar-content-area">
             <div className="navbar-containers">
-                <div className="navbar-page-titles-container">
+                <div className="navbar-logo-container">
                     <a href="about"><img src={logo} className="company-logo" alt="logo"/></a>
                 </div>
                 <div className="navbar-page-titles-container">

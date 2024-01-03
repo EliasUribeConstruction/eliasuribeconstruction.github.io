@@ -30,9 +30,16 @@
 
 /* NAVBAR */
 
-.company-logo {
-  height: 96px; /* Adjust the height for small screens */
+.footer-logo-container,
+.navbar-logo-container{
+  max-width: 20%;
 }
+
+.company-logo {
+  max-height: 96px; /* Adjust the height for small screens */
+  width: 100%;
+}
+
 
 .footer-contant-area,
 .navbar-content-area {
@@ -55,34 +62,39 @@
 .navbar-page-titles-container {
   display: flex;
   flex-direction: row;
+  max-width: 80%;
+  overflow: hidden;
 }
 
 .navbar-link {
+  flex: 1;
   text-align: center;
   display: flex;
   font-display: flex;
   margin: 0px calc(5px + 1vmin) 0px calc(5px + 1vmin);
-  font-size: calc(6px + 2vmin);
+  font-size: calc(3px + 2vmin);
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
   color: #0a3863;
+  /* width: 25%; */
+  white-space: nowrap;
 }
 
 .contact-title,
 .contact-link {
-  /* Your red box styling */
+  flex: 1;
   background-color: red;
   color: white;
-  /* Other styles */
   text-align: center;
   display: flex;
   font-display: flex;
   padding: 0px calc(5px + 1vmin) 0px calc(5px + 1vmin);
-  font-size: calc(6px + 2vmin);
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
+  font-size: calc(3px + 2vmin);
+  white-space: nowrap;
 }
 
 
@@ -108,9 +120,9 @@
 
 .text-section {
   flex: 1;
-  padding: 5% 5% 5% 5%;
+  padding: 2% 2% 2% 2%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center; /* Align items vertically */
   flex-direction: column;
 }
@@ -277,7 +289,7 @@
 .portfolio-item {
   background-color: white;
   width: 100%;
-  height: 300px;
+  height: 350px;
   display: flex;
   flex-direction: row;
   margin-bottom: 10px;
@@ -316,7 +328,7 @@
   color: white;
   text-align: center;
   padding: 0% 2% 0% 2%;
-  font-size: calc(3px + 2vmin);
+  font-size: calc(8px + 2vmin);
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
   margin: 2% 2% 5% 2%;
@@ -326,14 +338,16 @@
   text-align: center;
   color: #0a3863;
   font-family: 'Poppins', sans-serif;
-  font-size: calc(2px + 1.5vmin);
+  font-size: calc(6px + 1.5vmin);
+  margin: 1% 1% 1% 1%;
 }
 
 .quote-name{
   text-align: center;
   font-family: 'Poppins', sans-serif;
   color: #0a3863;
-  font-size: calc(2px + 2vmin);
+  font-size: calc(6px + 2vmin);
+  margin: 1% 1% 1% 1%;
 }
 
 .big-quote-section{
@@ -406,4 +420,5 @@
 .contact-content{
   font-family: 'Poppins', sans-serif;
   color: #e81c27;
+  font-size: calc(2px + 1.5vmin);
 }

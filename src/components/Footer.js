@@ -36,7 +36,7 @@ function Footer() {
                         )        
                     })}
                 </div>
-                <div className="navbar-page-titles-container">
+                <div className="footer-logo-container">
                     <a href="about"><img src={logo} className="company-logo" alt="logo"/></a>
                 </div>
                 <div className="contact-section">

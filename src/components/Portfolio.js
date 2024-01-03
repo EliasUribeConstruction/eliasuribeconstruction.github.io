@@ -23,7 +23,7 @@ function Portfolio() {
                     <div className="portfolio-text-section-switch">
                         <div className="project-title">The Wilson Remodel</div>
                         <div className="project-quote">
-                            "Elias Uribe has worked on several projects for me over the last three years on property in Cottonwood Canyon south of Bozeman. Elias is profoundly thoughtful in his work. I have never hired or worked with a professional who is equally dedicated, skilled and tireless."
+                            "Elias is profoundly thoughtful in his work. I have never hired or worked with a professional who is equally dedicated, skilled and tireless."
                         </div>
                         <div className="quote-name">- John Dolan | MA, DDS, MS</div>
                     </div>
