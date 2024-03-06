@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sun-road-elias/static/css/main.a8fb1ddf.css",
-    "main.js": "/sun-road-elias/static/js/main.e8ce5b11.js",
-    "static/js/787.1681269a.chunk.js": "/sun-road-elias/static/js/787.1681269a.chunk.js",
-    "static/media/ArchitectBluePrint.jpg": "/sun-road-elias/static/media/ArchitectBluePrint.b7bdd918c987ebfe96ab.jpg",
-    "static/media/TopPhotoWide.jpg": "/sun-road-elias/static/media/TopPhotoWide.e57be7152e1c7104fce1.jpg",
-    "static/media/BluePrint.jpg": "/sun-road-elias/static/media/BluePrint.516bc1025356230ee52e.jpg",
-    "static/media/FinishedBuilding3.jpeg": "/sun-road-elias/static/media/FinishedBuilding3.ee76fada01a6909806c6.jpeg",
-    "static/media/FinishedBuilding2.jpeg": "/sun-road-elias/static/media/FinishedBuilding2.3f0ab32d639189a3473f.jpeg",
-    "static/media/FinishedBuilding1.jpeg": "/sun-road-elias/static/media/FinishedBuilding1.c89c780bb69ecbfb5989.jpeg",
-    "static/media/logo.png": "/sun-road-elias/static/media/logo.ca9f2db65e44da5a9832.png",
-    "index.html": "/sun-road-elias/index.html",
-    "main.a8fb1ddf.css.map": "/sun-road-elias/static/css/main.a8fb1ddf.css.map",
-    "main.e8ce5b11.js.map": "/sun-road-elias/static/js/main.e8ce5b11.js.map",
-    "787.1681269a.chunk.js.map": "/sun-road-elias/static/js/787.1681269a.chunk.js.map"
+    "main.css": "/static/css/main.a8fb1ddf.css",
+    "main.js": "/static/js/main.033f5682.js",
+    "static/js/787.29282743.chunk.js": "/static/js/787.29282743.chunk.js",
+    "static/media/ArchitectBluePrint.jpg": "/static/media/ArchitectBluePrint.b7bdd918c987ebfe96ab.jpg",
+    "static/media/TopPhotoWide.jpg": "/static/media/TopPhotoWide.e57be7152e1c7104fce1.jpg",
+    "static/media/BluePrint.jpg": "/static/media/BluePrint.516bc1025356230ee52e.jpg",
+    "static/media/FinishedBuilding3.jpeg": "/static/media/FinishedBuilding3.ee76fada01a6909806c6.jpeg",
+    "static/media/FinishedBuilding2.jpeg": "/static/media/FinishedBuilding2.3f0ab32d639189a3473f.jpeg",
+    "static/media/FinishedBuilding1.jpeg": "/static/media/FinishedBuilding1.c89c780bb69ecbfb5989.jpeg",
+    "static/media/logo.png": "/static/media/logo.ca9f2db65e44da5a9832.png",
+    "index.html": "/index.html",
+    "main.a8fb1ddf.css.map": "/static/css/main.a8fb1ddf.css.map",
+    "main.033f5682.js.map": "/static/js/main.033f5682.js.map",
+    "787.29282743.chunk.js.map": "/static/js/787.29282743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8fb1ddf.css",
-    "static/js/main.e8ce5b11.js"
+    "static/js/main.033f5682.js"
   ]
 }
