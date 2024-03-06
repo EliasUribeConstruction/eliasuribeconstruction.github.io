@@ -1,7 +1,7 @@
 {
-  "name": "sun-road-elias",
+  "name": "eliasuribeconstruction",
   "version": "0.1.0",
-  "homepage": "https://malcolmweaver.github.io/sun-road-elias/",
+  "homepage": "https://eliasuribeconstruction.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
