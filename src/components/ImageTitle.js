@@ -6,9 +6,9 @@ function ImageTitle(){
     return (
       <div className="header-background-image-container"> 
         <img src={backgroundImage} className="title-background-image"></img>
-        {/* <div className="background-text">
+        <div className="background-text">
           Your vision, our mission. Providing quality construction services to the greater Bozeman area.
-        </div> */}
+        </div>
       </div>
     )
 }
