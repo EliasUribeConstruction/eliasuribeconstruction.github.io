@@ -14,7 +14,7 @@ function About() {
           I’ve been a builder in the Bozeman area now for the past couple years.
           Specializing in remodels, interior finish work, exterior siding and
           decks. In my free time you can catch me practicing archery or
-          backpacking in the beartooths. Look forward to helping complete your
+          backpacking in the Beartooths. Look forward to helping complete your
           dream projects.
         </div>
         <img src={eliasPhoto} alt="Elias" className="mx-auto"></img>
