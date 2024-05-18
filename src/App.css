@@ -36,9 +36,17 @@
 }
 
 .company-logo {
-  max-height: 96px; /* Adjust the height for small screens */
-  width: 100%;
+  max-width: 140px; /* Adjust the height for small screens */
+  width: 80%;
+  height: auto;
+  /* max */
 }
+
+/* @media screen and (max-width: 480px){
+.company-logo {
+max-height: 48px;
+}
+} */
 
 
 .footer-contant-area,
@@ -181,7 +189,7 @@
   object-fit: cover;
 }
 
- @media screen and (max-width: 650px) { 
+ @media screen and (max-width: 650px) {
   .about-container {
       flex-direction: column;
       height: 500px;
@@ -212,7 +220,7 @@
     min-height: 100%;
     object-fit: cover;
   }
-} 
+}
 
 /* Services */
 
@@ -256,7 +264,7 @@
   font-size: calc(5px + 2vmin);
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
-  
+
 }
 
 /* Portfolio */
@@ -379,7 +387,7 @@
   font-family: 'Poppins', sans-serif;
   margin: 2% 2% 2% 2%;
 }
-@media screen and (max-width: 650px) { 
+@media screen and (max-width: 650px) {
   .portfolio-item{
     flex-direction: column;
     height: auto;
@@ -393,7 +401,7 @@
     object-fit: cover;
     order: 1;
   }
-  
+
   .portfolio-text-section-switch,
   .portfolio-text-section{
     display: flex;
