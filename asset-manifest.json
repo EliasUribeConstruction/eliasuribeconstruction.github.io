@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a2adbc33.css",
-    "main.js": "/static/js/main.ef9a44ed.js",
+    "main.js": "/static/js/main.80a36877.js",
     "static/js/787.29282743.chunk.js": "/static/js/787.29282743.chunk.js",
     "static/media/TopPhotoWide.jpg": "/static/media/TopPhotoWide.e57be7152e1c7104fce1.jpg",
-    "static/media/FinishedBuilding3.jpeg": "/static/media/FinishedBuilding3.ee76fada01a6909806c6.jpeg",
-    "static/media/FinishedBuilding2.jpeg": "/static/media/FinishedBuilding2.3f0ab32d639189a3473f.jpeg",
+    "static/media/LivingstonRemodel.jpeg": "/static/media/LivingstonRemodel.b14b9c85bbc06edb879f.jpeg",
+    "static/media/BigSkyModern.jpeg": "/static/media/BigSkyModern.7d0dbfa4a50db2ed95fe.jpeg",
     "static/media/FinishedBuilding1.jpeg": "/static/media/FinishedBuilding1.c89c780bb69ecbfb5989.jpeg",
     "static/media/logo.png": "/static/media/logo.ca9f2db65e44da5a9832.png",
     "static/media/EliasPhoto.jpeg": "/static/media/EliasPhoto.4bfca8aed814dfbe6fe3.jpeg",
     "index.html": "/index.html",
     "main.a2adbc33.css.map": "/static/css/main.a2adbc33.css.map",
-    "main.ef9a44ed.js.map": "/static/js/main.ef9a44ed.js.map",
+    "main.80a36877.js.map": "/static/js/main.80a36877.js.map",
     "787.29282743.chunk.js.map": "/static/js/787.29282743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2adbc33.css",
-    "static/js/main.ef9a44ed.js"
+    "static/js/main.80a36877.js"
   ]
 }
