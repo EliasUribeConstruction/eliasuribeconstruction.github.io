@@ -41,7 +41,7 @@ function Footer() {
             })}
           </div>
           <div className="max-w-[20%] mx-auto">
-            <a href="about">
+            <a href="/">
               <img src={logo} className="company-logo" alt="logo" />
             </a>
           </div>
