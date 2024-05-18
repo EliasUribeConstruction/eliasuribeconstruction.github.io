@@ -58,7 +58,8 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 100px; /* Adjust the height for small screens */
+  height: 80%; /* Adjust the height for small screens */
+  margin: auto;
 }
 
 .footer-page-titles-container,

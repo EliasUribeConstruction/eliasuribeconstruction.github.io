@@ -22,7 +22,7 @@ function Navbar() {
       <div className="bg-white w-[90%] mx-auto h-full">
         <div className="flex flex-row justify-between items-center h-full py-3">
           <div className="navbar-logo-container">
-            <a href="about">
+            <a href="/">
               <img src={logo} className="company-logo" alt="logo" />
             </a>
           </div>
