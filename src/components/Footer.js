@@ -46,7 +46,9 @@ function Footer() {
             </a>
           </div>
           <div className="contact-section">
-            <div className="contact-title">{"CONTACT"}</div>
+            <div className="flex-1 flex items-center justify-center bg-red-500 text-white text-center text-sm sm:text-lg lg:text-xl px-3 max-h-8 py-auto mb-2 ">
+              {"CONTACT"}
+            </div>
             <div className="contact-content">406-922-9782</div>
             <div className="contact-content">sunroadconstruction@gmail.com</div>
           </div>
