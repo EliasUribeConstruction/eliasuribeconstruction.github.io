@@ -1,19 +1,17 @@
+import "./App.css";
 
-import './App.css';
-
-import ImageTitle from './components/ImageTitle';
-import About from './components/About';
-import Portfolio from './components/Portfolio';
-import Footer from './components/Footer';
-import Navbar from './components/Navbar';
-import Services from './components/Services';
-import PastWork from './components/Portfolio';
+import ImageTitle from "./components/ImageTitle";
+import About from "./components/About";
+import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
+import Services from "./components/Services";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <ImageTitle />     
+      <ImageTitle />
 
       {/* Main Section */}
       <main className="main">

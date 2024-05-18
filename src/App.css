@@ -1,3 +1,5 @@
+
+
 /* Title */
 .header-background-image-container {
   -webkit-mask-size: auto auto;
@@ -36,17 +38,10 @@
 }
 
 .company-logo {
-  max-width: 140px; /* Adjust the height for small screens */
+  max-width: 140px;
   width: 80%;
   height: auto;
-  /* max */
 }
-
-/* @media screen and (max-width: 480px){
-.company-logo {
-max-height: 48px;
-}
-} */
 
 
 .footer-contant-area,
