@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2adbc33.css",
-    "main.js": "/static/js/main.3837b52d.js",
+    "main.css": "/static/css/main.65ec3920.css",
+    "main.js": "/static/js/main.1e775a61.js",
     "static/js/787.29282743.chunk.js": "/static/js/787.29282743.chunk.js",
     "static/media/TopPhotoWide.jpg": "/static/media/TopPhotoWide.e57be7152e1c7104fce1.jpg",
     "static/media/LivingstonRemodel.jpeg": "/static/media/LivingstonRemodel.b14b9c85bbc06edb879f.jpeg",
@@ -10,12 +10,12 @@
     "static/media/logo.png": "/static/media/logo.ca9f2db65e44da5a9832.png",
     "static/media/EliasPhoto.jpeg": "/static/media/EliasPhoto.4bfca8aed814dfbe6fe3.jpeg",
     "index.html": "/index.html",
-    "main.a2adbc33.css.map": "/static/css/main.a2adbc33.css.map",
-    "main.3837b52d.js.map": "/static/js/main.3837b52d.js.map",
+    "main.65ec3920.css.map": "/static/css/main.65ec3920.css.map",
+    "main.1e775a61.js.map": "/static/js/main.1e775a61.js.map",
     "787.29282743.chunk.js.map": "/static/js/787.29282743.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2adbc33.css",
-    "static/js/main.3837b52d.js"
+    "static/css/main.65ec3920.css",
+    "static/js/main.1e775a61.js"
   ]
 }

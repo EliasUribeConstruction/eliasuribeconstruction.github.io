@@ -31,11 +31,10 @@ function Portfolio() {
           <div className="portfolio-text-section-switch">
             <div className="project-title">Livingston Remodel</div>
             <div className="project-quote">
-              "Elias is profoundly thoughtful in his work. I have never hired or
-              worked with a professional who is equally dedicated, skilled and
-              tireless."
+              "Elias's work was quality, on time, on budget, and with a great
+              attitude. I will work with Elias again!"
             </div>
-            <div className="quote-name">- John Dolan | MA, DDS, MS</div>
+            <div className="quote-name">- Seth Bork | Project Management</div>
           </div>
         </div>
         <div className="portfolio-item">
@@ -43,10 +42,13 @@ function Portfolio() {
           <div className="portfolio-text-section">
             <div className="project-title">Big Sky Modern</div>
             <div className="project-quote">
-              "Elias's work was quality, on time, on budget, and with a great
-              attitude. I will work with Elias again!"
+              "Elias is profoundly thoughtful in his work. I have never hired or
+              worked with a professional who is equally dedicated, skilled and
+              tireless."
             </div>
-            <div className="quote-name">- Seth Bork | Project Management</div>
+            <div className="quote-name">
+              - Joe Clarke | “Lone Mountian Land Company”
+            </div>
           </div>
         </div>
       </div>
